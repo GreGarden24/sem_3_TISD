@@ -1,0 +1,65 @@
+Andorra 447169486 Amarillo North_America 0 tour 1003 nature
+Uganda 558297266 Escondido Africa 1 beach summer -1 2 80
+Germany 1061373745 Wien Asia 0 beach autumn 17 28 709
+Qatar 647091921 San_Bernardino South_America 1 beach summer -27 18 572
+Hungary 1958778145 Lakewood North_America 0 sport surfing 199461
+Switzerland 1515714123 Laredo Europe 1 sport skiing 93721
+Cameroon 965265997 Lincoln South_America 0 beach summer 28 13 369
+Comoros 497555747 Fort_Lauderdale Africa 1 beach winter 14 3 665
+Honduras 1476727325 Irving Europe 0 beach autumn 21 22 176
+Belgium 1144553496 Albuquerque South_America 1 sport surfing 28123
+Sudan 799827160 Berlin Africa 1 sport climbing 180709
+Kosovo 539831219 St._Louis Europe 1 tour 323 art
+Serbia 575176254 Moreno_Valley Asia 1 beach summer -12 0 635
+Algeria 1284270713 Omaha Australia 0 beach winter -12 0 708
+Eritrea 1813190954 Nashville South_America 1 sport surfing 81264
+USA 603542614 Jersey_City Europe 1 tour 211 art
+Mauritania 980634445 Arlington North_America 1 beach summer -27 14 366
+Somalia 1286665306 Laredo Australia 1 tour 836 art
+Macedonia 223178707 Salem Asia 1 tour 1309 nature
+Sri_Lanka 959660196 Orlando South_America 1 sport climbing 38447
+Belarus 1413332431 Zurich Europe 0 sport skiing 129346
+Samoa 266212536 Amarillo North_America 1 sport skiing 101739
+Jamaica 1878663716 Norfolk Africa 1 sport skiing 155496
+Ecuador 1422359188 Honolulu Asia 1 tour 400 art
+Laos 1738681282 Fullerton South_America 1 beach summer -8 17 695
+Albania 1077381352 Honolulu Europe 0 tour 274 nature
+Nigeria 866757963 Kansas_City Africa 1 tour 1352 history
+Gabon 1847507201 Prague Australia 1 tour 913 history
+Spain 1912884015 Baltimore Africa 1 tour 1554 nature
+Panama 1337295844 San_Antonio Australia 1 sport skiing 119119
+Dominica 1525786864 Nashville Australia 0 sport climbing 174943
+New_Zealand 506916714 Memphis Asia 1 sport surfing 138725
+Philippines 680634832 Santa_Ana North_America 1 sport skiing 83764
+Mongolia 1872272948 Paris Australia 1 sport surfing 112621
+Kiribati 1371788817 Glendale Africa 1 tour 393 art
+Senegal 1614921589 Boston Australia 1 sport climbing 64266
+Singapore 624129033 Norfolk Africa 1 sport skiing 197471
+Malawi 1019929072 Murfreesboro Asia 1 tour 95 history
+Mauritius 398193235 Lincoln Australia 1 beach spring -27 19 88
+Afghanistan 1285510929 Houston Asia 1 sport skiing 176602
+Bhutan 1615178775 Salem Australia 0 tour 1944 nature
+Burkina_Faso 1565632054 Reno North_America 0 sport climbing 123468
+India 302565359 Fort_Lauderdale South_America 0 tour 310 history
+South_Africa 19243675 Rochester Asia 1 sport skiing 68838
+Grenada 497018375 Denver Europe 0 beach summer 8 2 246
+Iceland 1111711521 San_Diego Africa 0 tour 1237 nature
+Uzbekistan 1896404290 Arlington Africa 1 tour 1036 history
+Czech_Republic 55185815 Colorado_Springs Australia 0 sport surfing 11283
+Denmark 1891072828 Jersey_City Asia 0 beach summer 16 36 560
+Madagascar 1699640145 London Africa 1 tour 1058 art
+Pakistan 1744811725 Springfield Australia 1 sport surfing 85766
+Montenegro 242285882 Fullerton North_America 1 beach spring 21 39 362
+Jordan 1724900697 Garland Australia 1 sport climbing 191931
+China 228675126 Atlanta Africa 1 sport climbing 157970
+Haiti 1360085597 Bellevue Asia 0 beach summer -18 6 418
+Armenia 1183175684 Madison South_America 1 beach autumn -20 25 154
+Angola 766513686 San_Bernardino Europe 1 tour 1845 art
+San_Marino 1107871112 London North_America 1 sport skiing 34612
+Equatorial_Guinea 860922699 Dallas South_America 0 beach summer 25 25 353
+United_Kingdom 1278104609 San_Bernardino Asia 1 tour 1823 art
+Cambodia 1059546323 Richmond Asia 0 beach spring -19 28 591
+El_Salvador 1530694329 New_York South_America 1 tour 725 history
+Austria 846177699 Oklahoma_City North_America 1 sport surfing 130098
+Romania 966248214 Escondido Asia 1 tour 1159 history
+Guyana 1567381766 Philadelphia Europe 0 beach spring 28 13 611
