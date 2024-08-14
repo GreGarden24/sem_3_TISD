@@ -1,0 +1,8 @@
+bread
+milk
+cereal
+apple
+banana
+chokolate
+rice
+eggplant
