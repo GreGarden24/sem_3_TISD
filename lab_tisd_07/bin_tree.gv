@@ -1,0 +1,22 @@
+digraph Words {
+bread -> apple;
+bread -> milk;
+apple -> banana;
+milk -> cereal;
+milk -> rice;
+cereal -> butter;
+cereal -> chokolate;
+butter -> carrot;
+chokolate -> eggplant;
+eggplant -> cucumber;
+eggplant -> juice;
+juice -> jam;
+rice -> pasta;
+rice -> sausages;
+pasta -> pie;
+sausages -> sweet;
+sweet -> zarg;
+zarg -> zorg;
+zorg -> zerg;
+zorg -> zurg;
+}
